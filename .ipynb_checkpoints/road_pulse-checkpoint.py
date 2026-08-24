@@ -603,4 +603,4 @@ if st.button("🔍 Analyze Road", type="primary", use_container_width=True):
 st.divider()
 st.caption(
     "RoadPulse prototype: trained road-damage detection + embedded video GPS extraction "
-    "+ video-motion roughness proxy + Road Health Score."
+    "+ video-motion roughness proxy + Road Health Score.")
