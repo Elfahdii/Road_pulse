@@ -1,0 +1,5 @@
+streamlit
+pandas
+ultralytics
+opencv-python-headless
+streamlit-geolocation
