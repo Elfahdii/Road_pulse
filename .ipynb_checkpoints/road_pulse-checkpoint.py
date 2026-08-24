@@ -17,7 +17,7 @@ st.set_page_config(page_title="RoadPulse", page_icon="🛣️", layout="wide")
 st.title("🛣️ RoadPulse")
 st.caption("AI Road Condition Intelligence")
 
-MODEL_PATH = "best.pt"
+MODEL_PATH = "road_pulse_best.pt"
 
 EXPECTED_CLASSES = {
     0: "longitudinal_crack",
